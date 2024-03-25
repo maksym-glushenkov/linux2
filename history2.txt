@@ -1,0 +1,13 @@
+   0 date > /home/work.txt
+   1 df -h | grep G
+   2 df -h | grep G >> /home/work.txt 
+   3 history | tail -5
+   4 history | tail -5 >> /home/work.txt 
+   5 cat /proc/cpuinfo
+   6 cat /proc/cpuinfo | grep ventor_id
+   7 cat /proc/cpuinfo | grep vendor_id
+   8 cat /proc/cpuinfo | grep vendor_id >> /home/work.txt 
+   9 vi /home/work.txt 
+  10 ps -ef | wc -l 
+  11 ps -ef | wc -l >> /home/work.txt 
+  12 history > history2.txt
